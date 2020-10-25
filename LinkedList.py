@@ -33,7 +33,5 @@ def main ():
     linkedlist.printList()
     print(0, end='')
     
-    pass
-    
 if __name__ == "__main__":
     main()
